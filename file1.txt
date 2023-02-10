@@ -1,2 +1,6 @@
 HelloWorldm
+<<<<<<< HEAD
 big addings
+=======
+gjhk
+>>>>>>> e698235c982ea95c7bad174b166812065729f97c
